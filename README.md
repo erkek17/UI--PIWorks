@@ -2,9 +2,9 @@ Definition---> This is a user interface specification document for the user mana
 
 # Screen Parts
 1. Upper Bar
-   1.1 New User Button
-   1.2 Disabled User Display Check Box
-   1.3 Save User Button
+   1.1 New User Button ;
+   1.2 Disabled User Display Check Box ;
+   1.3 Save User Button ;
 2. User List
    2.1 ID Sorting Button
    2.2 User Name Sorting Button
