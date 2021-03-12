@@ -76,4 +76,4 @@ This is a user interface specification document for the user management screen f
  
 
 ## Screen Figure
-![User Management Screen](/UMS.png)
+![User Management Screen](/pic1.png)
