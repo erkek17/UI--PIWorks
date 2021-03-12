@@ -2,22 +2,38 @@ Definition---> This is a user interface specification document for the user mana
 
 # Screen Parts
 1. Upper Bar
-   1.1 New User Button ;
-   1.2 Disabled User Display Check Box ;
-   1.3 Save User Button ;
+  
+  1.1 New User Button 
+   
+  1.2 Disabled User Display Check Box 
+   
+  1.3 Save User Button 
+
 2. User List
-   2.1 ID Sorting Button
-   2.2 User Name Sorting Button
-   2.3 Email Sorting Button
-   2.4 User Status Sorting Button
-   2.5 Display User List
+   
+  2.1 ID Sorting Button
+  
+  2.2 User Name Sorting Button
+  
+  2.3 Email Sorting Button
+  
+  2.4 User Status Sorting Button
+  
+  2.5 Display User List
+
 3. New User Information Screen
-   3.1 Username Text Box
-   3.2 Display Name Text Box
-   3.3 Phone Text Box
-   3.4 Email Text Box
-   3.5 User Role Option Box
-   3.6 User Status Check Box 
+
+  3.1 Username Text Box
+
+  3.2 Display Name Text Box
+  
+  3.3 Phone Text Box
+  
+  3.4 Email Text Box
+  
+  3.5 User Role Option Box
+  
+  3.6 User Status Check Box 
 
 # Detailed Explanation
  
